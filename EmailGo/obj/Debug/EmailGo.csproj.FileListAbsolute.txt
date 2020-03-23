@@ -1,0 +1,12 @@
+C:\Users\farpi\Desktop\Prog3\zh2gyakorolgatásocskodás\EmailGo\bin\Debug\EmailGo.exe.config
+C:\Users\farpi\Desktop\Prog3\zh2gyakorolgatásocskodás\EmailGo\bin\Debug\EmailGo.exe
+C:\Users\farpi\Desktop\Prog3\zh2gyakorolgatásocskodás\EmailGo\bin\Debug\EmailGo.pdb
+C:\Users\farpi\Desktop\Prog3\zh2gyakorolgatásocskodás\EmailGo\obj\Debug\EmailGo.exe
+C:\Users\farpi\Desktop\Prog3\zh2gyakorolgatásocskodás\EmailGo\obj\Debug\EmailGo.pdb
+D:\suli\Prog3\zh2gyakorolgatásocskodás\EmailGo\bin\Debug\EmailGo.exe.config
+D:\suli\Prog3\zh2gyakorolgatásocskodás\EmailGo\bin\Debug\EmailGo.exe
+D:\suli\Prog3\zh2gyakorolgatásocskodás\EmailGo\bin\Debug\EmailGo.pdb
+D:\suli\Prog3\zh2gyakorolgatásocskodás\EmailGo\obj\Debug\EmailGo.csprojAssemblyReference.cache
+D:\suli\Prog3\zh2gyakorolgatásocskodás\EmailGo\obj\Debug\EmailGo.csproj.CoreCompileInputs.cache
+D:\suli\Prog3\zh2gyakorolgatásocskodás\EmailGo\obj\Debug\EmailGo.exe
+D:\suli\Prog3\zh2gyakorolgatásocskodás\EmailGo\obj\Debug\EmailGo.pdb
