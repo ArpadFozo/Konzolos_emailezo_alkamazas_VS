@@ -1,0 +1,6 @@
+C:\Users\farpi\Desktop\Prog3\zhGyakorlas2\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\farpi\Desktop\Prog3\zhGyakorlas2\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\farpi\Desktop\Prog3\zhGyakorlas2\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\farpi\Desktop\Prog3\zhGyakorlas2\EmailSender\obj\Debug\EmailSender.exe
+C:\Users\farpi\Desktop\Prog3\zhGyakorlas2\EmailSender\obj\Debug\EmailSender.pdb
+C:\Users\farpi\Desktop\Prog3\zhGyakorlas2\EmailSender\obj\Debug\EmailSender.csprojResolveAssemblyReference.cache

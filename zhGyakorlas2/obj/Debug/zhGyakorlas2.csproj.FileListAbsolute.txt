@@ -1,0 +1,13 @@
+C:\Users\farpi\Desktop\Prog3\zhGyakorlas2\zhGyakorlas2\bin\Debug\zhGyakorlas2.exe.config
+C:\Users\farpi\Desktop\Prog3\zhGyakorlas2\zhGyakorlas2\bin\Debug\zhGyakorlas2.exe
+C:\Users\farpi\Desktop\Prog3\zhGyakorlas2\zhGyakorlas2\bin\Debug\zhGyakorlas2.pdb
+C:\Users\farpi\Desktop\Prog3\zhGyakorlas2\zhGyakorlas2\obj\Debug\zhGyakorlas2.csprojResolveAssemblyReference.cache
+C:\Users\farpi\Desktop\Prog3\zhGyakorlas2\zhGyakorlas2\obj\Debug\zhGyakorlas2.exe
+C:\Users\farpi\Desktop\Prog3\zhGyakorlas2\zhGyakorlas2\obj\Debug\zhGyakorlas2.pdb
+D:\suli\Prog3\zhGyakorlas2\zhGyakorlas2\bin\Debug\zhGyakorlas2.exe.config
+D:\suli\Prog3\zhGyakorlas2\zhGyakorlas2\obj\Debug\zhGyakorlas2.exe
+D:\suli\Prog3\zhGyakorlas2\zhGyakorlas2\obj\Debug\zhGyakorlas2.pdb
+D:\suli\Prog3\zhGyakorlas2\zhGyakorlas2\bin\Debug\zhGyakorlas2.exe
+D:\suli\Prog3\zhGyakorlas2\zhGyakorlas2\bin\Debug\zhGyakorlas2.pdb
+D:\suli\Prog3\zhGyakorlas2\zhGyakorlas2\obj\Debug\zhGyakorlas2.csprojAssemblyReference.cache
+D:\suli\Prog3\zhGyakorlas2\zhGyakorlas2\obj\Debug\zhGyakorlas2.csproj.CoreCompileInputs.cache
